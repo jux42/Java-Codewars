@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 public class NumberUtils {
     public static boolean isNarcissistic(int number) {
 

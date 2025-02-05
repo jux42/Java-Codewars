@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class Banjo {
     public static String areYouPlayingBanjo(String name) {

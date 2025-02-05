@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class TraillingZeros {
     public static int zeros(int n) {

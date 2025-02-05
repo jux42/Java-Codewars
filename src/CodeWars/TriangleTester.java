@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 class TriangleTester{
   public static boolean isTriangle(int a, int b, int c){

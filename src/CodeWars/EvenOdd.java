@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class EvenOdd {
     public static String evenOrOdd(int number) {

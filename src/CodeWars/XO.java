@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class XO {
     public static boolean getXO (String str) {

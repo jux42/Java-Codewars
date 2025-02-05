@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class Maskify {
     public static String maskify(String str) {

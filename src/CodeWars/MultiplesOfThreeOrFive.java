@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class MultiplesOfThreeOrFive {
     public static int solution(int number) {

@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class Alphametics {
     public Alphametics(String s) {

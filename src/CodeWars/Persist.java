@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class Persist {
     public static int persistence(long n) {

@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 import java.util.HashMap;
 import java.util.concurrent.atomic.AtomicInteger;

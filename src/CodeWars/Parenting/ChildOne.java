@@ -1,4 +1,4 @@
-package CodeWars.Parenting;
+package src.CodeWars.Parenting;
 
 
 public class ChildOne extends Parent {

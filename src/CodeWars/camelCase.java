@@ -1,4 +1,4 @@
-package CodeWars;
+package src.CodeWars;
 
 public class camelCase {
     public static String camelCase(String input) {
